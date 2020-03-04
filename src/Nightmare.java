@@ -12,7 +12,6 @@ public class Nightmare
                     System.out.println(array[i] + 1);
                 }
             }
-
         }
     }
 }
